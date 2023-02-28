@@ -1,0 +1,8 @@
+C:\Users\davis\Documents\Curso CSharp\BancoEx\BancoEx\bin\Debug\BancoEx.exe.config
+C:\Users\davis\Documents\Curso CSharp\BancoEx\BancoEx\bin\Debug\BancoEx.exe
+C:\Users\davis\Documents\Curso CSharp\BancoEx\BancoEx\bin\Debug\BancoEx.pdb
+C:\Users\davis\Documents\Curso CSharp\BancoEx\BancoEx\obj\Debug\BancoEx.csproj.AssemblyReference.cache
+C:\Users\davis\Documents\Curso CSharp\BancoEx\BancoEx\obj\Debug\BancoEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\davis\Documents\Curso CSharp\BancoEx\BancoEx\obj\Debug\BancoEx.csproj.CoreCompileInputs.cache
+C:\Users\davis\Documents\Curso CSharp\BancoEx\BancoEx\obj\Debug\BancoEx.exe
+C:\Users\davis\Documents\Curso CSharp\BancoEx\BancoEx\obj\Debug\BancoEx.pdb
