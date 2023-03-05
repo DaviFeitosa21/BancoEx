@@ -15,10 +15,10 @@ namespace BancoEx
             DadosClientes dados = null;
 
             Console.WriteLine("Entre o número da conta: ");
-            int numeroConta = int.Parse(Console.ReadLine());
+            int Conta = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Entre o titular da conta: ");
-            string nomeTitular = Console.ReadLine();
+            string Titular = Console.ReadLine();
 
             Console.WriteLine("Deseja fazer um depósito inicial? (S/N)");
             char validacao = char.Parse(Console.ReadLine());
@@ -27,11 +27,11 @@ namespace BancoEx
             {
                 Console.WriteLine("Entre o valor de deposito inicial: ");
                 double depositoIni = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                dados = new DadosClientes(numeroConta, nomeTitular, depositoIni);
+                dados = new DadosClientes(Conta, Titular, depositoIni);
             }
             else
             {
-                dados = new DadosClientes(numeroConta, nomeTitular);
+                dados = new DadosClientes(Conta, Titular);
                 Console.WriteLine("Seu valor inicial será: R$ 0");
             }
 
